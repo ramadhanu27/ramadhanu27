@@ -13,10 +13,10 @@
 ---
 
 ## 🚀 About Me
-- 💻 Software Engineer focused on **Web & Automation**
-- ⚙️ Love creating tools that make life easier
-- 🧠 Always exploring **DevOps & Cloud**
-- ✨ Motto: **Automate the boring, build the exciting!**
+- 💻 Focused on **Web Development** & **Automation**
+- ✈️ Building scalable API & modern UI
+- ☁️ Learning DevOps & Cloud
+- ⚡ “Automate the boring, build the exciting!”
 
 ---
 
@@ -29,11 +29,20 @@
 
 ## 🌟 Featured Projects
 <p align="center">
-  <a href="[https://github.com/ramadhanu27](https://github.com/ramadhanu27/Manhwaindo-API)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=your-project-1&theme=tokyonight" /></a>
-  <a href="[https://github.com/ramadhanu27](https://github.com/ramadhanu27/manhwaindo-web)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=your-project-2&theme=tokyonight" /></a>
+
+  <!-- Project 1: Web -->
+  <a href="https://www.manhwaindo.web.id/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=manhwaindo-web&theme=tokyonight" />
+  </a>
+
+  <!-- Project 2: API -->
+  <a href="https://manhwaindo-api-rust.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=Manhwaindo-API&theme=tokyonight" />
+  </a>
+
 </p>
 
-> *More cool projects coming soon... 🚧*
+> 🚧 And more exciting projects coming soon!
 
 ---
 
@@ -63,9 +72,9 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramadhanu27&theme=tokyonight&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramadhanu27&theme=tokyonight&column=6&margin-w=10" />
 </p>
 
 ---
@@ -74,16 +83,14 @@
 <p align="center">
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ramadhanu27"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rama-dhanu-216a7427a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/rama-dhanu-216a7427a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-> I love solving puzzles & tinkering with new gadgets.  
-> Let’s build something awesome together 🚀
+> I love solving puzzles & tinkering with gadgets.  
+> Let's build something awesome together 🚀
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">

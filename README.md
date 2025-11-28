@@ -23,14 +23,8 @@
 
 ---
 
-## 🏆 Featured Projects
-| Project | Description | Links |
-|--------|-------------|------|
-| Automation Toolkit | Automate workflows & save hours everyday | 🔗 Coming Soon |
-| React Portfolio | Customizable portfolio website | 🔗 Coming Soon |
-| Python Data Wizard | Easy data analysis & visualization | 🔗 Coming Soon |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg">
 
-> *I'll keep adding more exciting projects! 🚧*
 
 ---
 

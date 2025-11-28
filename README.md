@@ -24,6 +24,8 @@
 ---
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+<img src="https://raw.githubusercontent.com/<username>/<repo>/main/animation.svg">
+![Stats](https://github-readme-stats.vercel.app/api?username=ramadhanu27&show_icons=true&theme=radical)
 
 
 ---

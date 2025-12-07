@@ -36,7 +36,7 @@
   </a>
 
   <!-- Project 2: API -->
-  <a href="https://manhwaindo-api-rust.vercel.app/" target="_blank">
+  <a href="https://rdapi.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=Manhwaindo-API&theme=tokyonight" />
   </a>
 

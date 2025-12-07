@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Ramadhanu 👋</h1>
-<p align="center">Software Engineer • Automation Enthusiast • Open Source Lover ⚙️</p>
+<p align="center">Web Development• Open Source Lover ⚙️</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramadhanu27&color=blue" alt="Profile views" />
@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Focused on **Web Development** & **Automation**
+- 💻 Focused on **Web Development**
 - ✈️ Building scalable API & modern UI
 - ☁️ Learning DevOps & Cloud
 - ⚡ “Automate the boring, build the exciting!”
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌌 Cool Dev Vibes
+## 🌌 Coding
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>

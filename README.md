@@ -73,7 +73,7 @@
 
 ### GitHub Streak
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/? user=ramadhanu27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp. com/?user=ramadhanu27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -94,9 +94,15 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-<a href="mailto:your-email@example. com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-<a href="https://github.com/ramadhanu27"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/rama-dhanu-216a7427a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2? logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="rhamadhanu2019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
+  <a href="https://github.com/ramadhanu27">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rama-dhanu-216a7427a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -106,5 +112,5 @@
 > Let's build something awesome together 🚀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored. png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>

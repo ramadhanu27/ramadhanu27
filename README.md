@@ -5,7 +5,7 @@
 
 <!-- PROFILE PICTURE -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/136323687? v=4" alt="Ramadhanu" width="150" height="150" style="border-radius: 50%; border: 3px solid #00D9FF;" />
+  <img src="https://avatars.githubusercontent.com/u/136323687?v=4" alt="Ramadhanu" width="150" height="150" style="border-radius: 50%; border: 3px solid #00D9FF;" />
 </p>
 
 <h1 align="center">Hi, I'm Ramadhanu 👋</h1>
@@ -36,13 +36,13 @@
 <p align="center">
 
   <!-- Project 1: Web -->
-  <a href="https://www.manhwaindo.web.id/" target="_blank">
+  <a href="https://www.manhwaindo.web. id/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=manhwaindo-web&theme=tokyonight" />
   </a>
 
   <!-- Project 2: API -->
   <a href="https://rdapi.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel. app/api/pin/?username=ramadhanu27&repo=Manhwaindo-API&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=Manhwaindo-API&theme=tokyonight" />
   </a>
 
 </p>
@@ -62,13 +62,8 @@
 
 ### Overall Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramadhanu27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api? username=ramadhanu27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhanu27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-### Streak Stats
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=ramadhanu27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### Contribution Graph
@@ -76,9 +71,9 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramadhanu27&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
 </p>
 
-### Wakatime Stats
+### GitHub Streak
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ramadhanu27&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/? user=ramadhanu27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -99,7 +94,7 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+<a href="mailto:your-email@example. com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 <a href="https://github.com/ramadhanu27"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/rama-dhanu-216a7427a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2? logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>

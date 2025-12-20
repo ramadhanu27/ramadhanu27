@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored. png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
 <!-- PROFILE PICTURE -->
@@ -62,43 +62,40 @@
 
 ### Overall Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api? username=ramadhanu27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhanu27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api? username=ramadhanu27&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+### Top Languages
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhanu27&layout=donut&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ### Contribution Graph
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramadhanu27&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph? username=ramadhanu27&theme=tokyo-night&hide_border=false" alt="Contribution Graph" />
 </p>
 
 ### GitHub Streak
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp. com/?user=ramadhanu27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramadhanu27&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramadhanu27&theme=tokyonight&column=6&margin-w=10&no-frame=false" />
-</p>
-
----
-
-## 📌 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhanu27&theme=tokyonight&hide_border=true&layout=pie" alt="Most Used Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramadhanu27&theme=tokyonight&column=6&margin-w=15&no-frame=false" alt="Trophy" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="rhamadhanu2019@gmail.com">
+  <a href="mailto: your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
   <a href="https://github.com/ramadhanu27">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000? logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/rama-dhanu-216a7427a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />

@@ -3,11 +3,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
+<!-- PROFILE PICTURE -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/ramadhanu27?v=4" alt="Ramadhanu" width="150" height="150" style="border-radius: 50%; border: 3px solid #00D9FF;" />
+</p>
+
 <h1 align="center">Hi, I'm Ramadhanu 👋</h1>
-<p align="center">Web Development• Open Source Lover ⚙️</p>
+<p align="center">Web Development • Open Source Lover ⚙️</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramadhanu27&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/? username=ramadhanu27&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -16,12 +21,12 @@
 - 💻 Focused on **Web Development**
 - ✈️ Building scalable API & modern UI
 - ☁️ Learning DevOps & Cloud
-- ⚡ “Automate the boring, build the exciting!”
+- ⚡ "Automate the boring, build the exciting!"
 
 ---
 
 ## 🧰 Tech Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,tailwind,github,git,vscode&theme=dark" />
 </p>
 
@@ -56,7 +61,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramadhanu27&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhanu27&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel. app/api/top-langs/? username=ramadhanu27&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -89,7 +94,7 @@
 ---
 
 ## ⚡ Fun Fact
-> I love solving puzzles & tinkering with gadgets.  
+> I love solving puzzles & tinkering with gadgets.   
 > Let's build something awesome together 🚀
 
 <p align="center">

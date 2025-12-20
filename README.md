@@ -5,7 +5,7 @@
 
 <!-- PROFILE PICTURE -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/ramadhanu27?v=4" alt="Ramadhanu" width="150" height="150" style="border-radius: 50%; border: 3px solid #00D9FF;" />
+  <img src="https://avatars.githubusercontent.com/u/136323687? v=4" alt="Ramadhanu" width="150" height="150" style="border-radius: 50%; border: 3px solid #00D9FF;" />
 </p>
 
 <h1 align="center">Hi, I'm Ramadhanu 👋</h1>
@@ -42,7 +42,7 @@
 
   <!-- Project 2: API -->
   <a href="https://rdapi.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=Manhwaindo-API&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel. app/api/pin/?username=ramadhanu27&repo=Manhwaindo-API&theme=tokyonight" />
   </a>
 
 </p>
@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramadhanu27&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel. app/api/top-langs/? username=ramadhanu27&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/? username=ramadhanu27&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -98,5 +98,5 @@
 > Let's build something awesome together 🚀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored. png" width="100%">
 </p>

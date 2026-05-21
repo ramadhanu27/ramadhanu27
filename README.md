@@ -53,9 +53,9 @@
         </a>
       </td>
       <td width="50%" align="center">
-        <strong>⚙️ Komiku API (Scraper)</strong><br/><br/>
-        <a href="https://github.com/ramadhanu27/KomikuAPI" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=KomikuAPI&theme=tokyonight&border_radius=10" width="100%" />
+        <strong>📖 Manga Reader (Web App)</strong><br/><br/>
+        <a href="https://github.com/ramadhanu27/Mangareader" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=Mangareader&theme=tokyonight&border_radius=10" width="100%" />
         </a>
       </td>
     </tr>

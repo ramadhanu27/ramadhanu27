@@ -25,14 +25,16 @@
 ---
 
 ## 🚀 About Me
+
 - 💻 Focused on **Web Development & Interactive UIs**
 - ✈️ Building scalable API & modern glassmorphic designs
 - ☁️ Learning DevOps, Cloud Integration, and System Workflows
-- ⚡ *“Automate the boring, build the exciting!”*
+- ⚡ _“Automate the boring, build the exciting!”_
 
 ---
 
 ## 🧰 Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,html,css,tailwind,github,git,vscode,figma,vercel&theme=dark" />
 </div>
@@ -45,26 +47,27 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <strong>🌐 Web Application</strong><br/><br/>
-        <a href="https://www.manhwaindo.web.id/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=manhwaindo-web&theme=tokyonight&border_radius=10" width="100%" />
+        <strong>🎨 Jecha's Flow (Timetable)</strong><br/><br/>
+        <a href="https://github.com/ramadhanu27/Jecha-s-Flow---Cozy-24h-Timetable" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=Jecha-s-Flow---Cozy-24h-Timetable&theme=tokyonight&border_radius=10" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
-        <strong>⚙️ Backend API</strong><br/><br/>
-        <a href="https://rdapi.vercel.app/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=Manhwaindo-API&theme=tokyonight&border_radius=10" width="100%" />
+        <strong>⚙️ Komiku API (Scraper)</strong><br/><br/>
+        <a href="https://github.com/ramadhanu27/KomikuAPI" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=KomikuAPI&theme=tokyonight&border_radius=10" width="100%" />
         </a>
       </td>
     </tr>
   </table>
   <br/>
-  <sub>🚧 More exciting UI and tool repositories are cooking in the background!</sub>
+  <sub>🌟 Check out my other active repositories for more open-source tools!</sub>
 </div>
 
 ---
 
 ## 🌌 Coding Vibe
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius: 12px; border: 2px solid rgba(255, 255, 255, 0.1);">
 </p>
@@ -85,6 +88,7 @@
 ---
 
 ## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramadhanu27&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
 </p>
@@ -92,6 +96,7 @@
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ramadhanu27&theme=tokyonight&column=6&margin-w=10" />
 </p>
@@ -99,6 +104,7 @@
 ---
 
 ## 🤝 Connect with Me
+
 <p align="center">
   <a href="mailto:rhamadhanu2019@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -114,6 +120,7 @@
 ---
 
 ## ⚡ Fun Fact
+
 > I love solving puzzles & tinkering with gadgets.  
 > Let's build something awesome together 🚀
 

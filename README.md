@@ -49,13 +49,13 @@
       <td width="50%" align="center">
         <strong>🎨 Jecha's Flow (Timetable)</strong><br/><br/>
         <a href="https://github.com/ramadhanu27/Jecha-s-Flow---Cozy-24h-Timetable" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=Jecha-s-Flow---Cozy-24h-Timetable&theme=tokyonight&border_radius=10" width="100%" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ramadhanu27&repo=Jecha-s-Flow---Cozy-24h-Timetable&theme=tokyonight&border_radius=10" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <strong>📖 Manga Reader (Web App)</strong><br/><br/>
         <a href="https://github.com/ramadhanu27/Mangareader" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramadhanu27&repo=Mangareader&theme=tokyonight&border_radius=10" width="100%" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ramadhanu27&repo=Mangareader&theme=tokyonight&border_radius=10" width="100%" />
         </a>
       </td>
     </tr>
@@ -77,8 +77,8 @@
 ## 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramadhanu27&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhanu27&layout=compact&theme=tokyonight&border_radius=10" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=ramadhanu27&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ramadhanu27&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
